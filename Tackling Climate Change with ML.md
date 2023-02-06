@@ -7,13 +7,13 @@ This paper discusses how ML can be used to reduce GHG emissions and help society
 
 # Buildings and Cities
 
-Energy consumed in buildings is responsible for a quarter of global energy-related emissions. [@moraTwentySevenWaysHeat2017], [@moraGlobalRiskDeadly2017] describe the health risks associated with exposure to heat that exceeds human thermoregulatory capacity. 
+Energy consumed in buildings is responsible for a quarter of global energy-related emissions. [@moraGlobalRiskDeadly2017]  [@moraTwentySevenWaysHeat2017] describe the health risks associated with exposure to heat that exceeds human thermoregulatory capacity. 
 
 ## DataSets
 
-|DOI|Dataset|Data|
-|----------|:----------:|:---------:|
-|10.1038/nclimate3322 [@moraGlobalRiskDeadly2017]|[Government Websites](#earth-system-models)|1. daily mean near-surface wind speed 2. daily mean near-surface relative humidity 3. daily mean/min/max near-surface air temperature|
+|DOI|Dataset|Data|Algorithms|Remarks|
+|--|----------------------|----------------------|----------------------|----------------------|
+|10.1038/nclimate3322<br/>|[Government Websites](#earth-system-models)|<ol><li> daily mean near-surface wind speed </li> <li> daily mean near-surface relative humidity </li> <li>daily mean/min/max near-surface air temperature</li></ol>|<ol><li>[[Support Vector Machines]] with 16 variables to discriminate climate conditions between hot days and cold days</li></ol>|Model with mean daily relative humidity and mean daily surface air temperature yielded highest relative accuracy of any two pairs of variables| 
 |test||test|
 
 ### Supplementary Images

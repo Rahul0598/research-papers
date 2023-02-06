@@ -6,10 +6,9 @@
       {
         "id": "fe3eda290163a617",
         "type": "tabs",
-        "dimension": 57.6226012793177,
         "children": [
           {
-            "id": "49dbbddecdc441a6",
+            "id": "1e492c6fffa02e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,65 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1e492c6fffa02e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tackling Climate Change with ML.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0124f211af1837d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tackling Climate Change with ML.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b308bccd4822c2b4",
-        "type": "tabs",
-        "dimension": 42.3773987206823,
-        "children": [
-          {
-            "id": "285f0faa6acb66d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tackling Climate Change with ML.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "561185e24d4083b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tackling Climate Change with ML.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +157,13 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "561185e24d4083b2",
-  "lastOpenFiles": []
+  "active": "1e492c6fffa02e53",
+  "lastOpenFiles": [
+    "![@moraTwentySevenWaysHeat2017].md",
+    "Tackling Climate Change with ML.md",
+    "10.1161/CIRCOUTCOMES.117.004233.md",
+    "[@moraGlobalRiskDeadly2017].md",
+    "@moraGlobalRiskDeadly2017.md",
+    "Support Vector Machines.md"
+  ]
 }
