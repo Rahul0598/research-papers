@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tackling Climate Change with ML.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -159,11 +159,15 @@
   },
   "active": "1e492c6fffa02e53",
   "lastOpenFiles": [
-    "![@moraTwentySevenWaysHeat2017].md",
+    "EM expectation maximization.md",
     "Tackling Climate Change with ML.md",
+    "Gaussian Process Regression.md",
+    "Linear Regression.md",
+    "Bayesian Generalized linear models.md",
+    "Random Forest.md",
+    "![@moraTwentySevenWaysHeat2017].md",
     "10.1161/CIRCOUTCOMES.117.004233.md",
     "[@moraGlobalRiskDeadly2017].md",
-    "@moraGlobalRiskDeadly2017.md",
-    "Support Vector Machines.md"
+    "@moraGlobalRiskDeadly2017.md"
   ]
 }
