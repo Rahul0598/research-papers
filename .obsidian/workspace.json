@@ -14,8 +14,20 @@
               "type": "markdown",
               "state": {
                 "file": "Tackling Climate Change with ML.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32f11ee787ae6aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Climate change and Networks.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "477eb94061ab828e",
@@ -159,15 +170,15 @@
   },
   "active": "1e492c6fffa02e53",
   "lastOpenFiles": [
-    "EM expectation maximization.md",
+    "Climate change and Networks.md",
     "Tackling Climate Change with ML.md",
+    "EM expectation maximization.md",
     "Gaussian Process Regression.md",
     "Linear Regression.md",
     "Bayesian Generalized linear models.md",
     "Random Forest.md",
     "![@moraTwentySevenWaysHeat2017].md",
     "10.1161/CIRCOUTCOMES.117.004233.md",
-    "[@moraGlobalRiskDeadly2017].md",
-    "@moraGlobalRiskDeadly2017.md"
+    "[@moraGlobalRiskDeadly2017].md"
   ]
 }
