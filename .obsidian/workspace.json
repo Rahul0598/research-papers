@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tackling Climate Change with ML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f11ee787ae6aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Climate change and Networks.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tackling Climate Change with ML.md",
+                "file": "Climate change and Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tackling Climate Change with ML.md",
+                "file": "Climate change and Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tackling Climate Change with ML.md"
+                "file": "Climate change and Networks.md"
               }
             }
           },
@@ -170,8 +158,8 @@
   },
   "active": "1e492c6fffa02e53",
   "lastOpenFiles": [
-    "Climate change and Networks.md",
     "Tackling Climate Change with ML.md",
+    "Climate change and Networks.md",
     "EM expectation maximization.md",
     "Gaussian Process Regression.md",
     "Linear Regression.md",
