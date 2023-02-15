@@ -6,6 +6,7 @@
       {
         "id": "fe3eda290163a617",
         "type": "tabs",
+        "dimension": 63.646055437100216,
         "children": [
           {
             "id": "1e492c6fffa02e53",
@@ -14,8 +15,75 @@
               "type": "markdown",
               "state": {
                 "file": "Climate change and Networks.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b9c0209a6bb396f5",
+        "type": "tabs",
+        "dimension": 36.353944562899784,
+        "children": [
+          {
+            "id": "91d9677dd6484739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ApproachesEstimatingEffects2008.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfb4f0665366acc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sonImpactHeatWaves2012.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aebe747d77c7b869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "benmarhniaQuantifyingImpactChanging2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1763a9ddd3d282a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xuImpactHeatwaveMortality2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75bbd4f4c83ff8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "heoComparisonHealthRisks2019.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "477eb94061ab828e",
@@ -143,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +228,15 @@
   },
   "active": "1e492c6fffa02e53",
   "lastOpenFiles": [
-    "Tackling Climate Change with ML.md",
+    "ApproachesEstimatingEffects2008.md",
     "Climate change and Networks.md",
-    "EM expectation maximization.md",
-    "Gaussian Process Regression.md",
-    "Linear Regression.md",
-    "Bayesian Generalized linear models.md",
-    "Random Forest.md",
-    "![@moraTwentySevenWaysHeat2017].md",
-    "10.1161/CIRCOUTCOMES.117.004233.md",
-    "[@moraGlobalRiskDeadly2017].md"
+    "sonImpactHeatWaves2012.md",
+    "heoComparisonHealthRisks2019.md",
+    "benmarhniaQuantifyingImpactChanging2019.md",
+    "xuImpactHeatwaveMortality2016.md",
+    "[[xuImpactHeatwaveMortality2016]].md",
+    "10.1016--j.envint.2016.02.007.md",
+    "Tackling Climate Change with ML.md",
+    "EM expectation maximization.md"
   ]
 }

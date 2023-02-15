@@ -1,0 +1,11 @@
+This study compares different heat wave definitions, including the Wet-Bulb Globe Temperature (WBGT), to identify the most appropriate definition for predicting health risks. The authors analyze data on hospital admissions and mortality rates in Seoul, South Korea, from 2006 to 2010.
+
+Lag effects information: The study does not appear to investigate lag effects.
+
+**Statistical methods:** The study uses Poisson regression models to estimate the associations between daily mean temperature or different heat wave definitions and daily counts of hospital admissions or mortality. The authors also use distributed lag non-linear models to estimate the cumulative effects of heat on mortality.
+
+**Data sources:** The study uses data on daily counts of hospital admissions and mortality from the National Health Insurance Service of Korea. Weather data are obtained from the Korea Meteorological Administration. The meteorological data included hourly temperature, relative humidity, wind speed, and sunshine duration for the period of 2001 to 2010. The air pollution data included hourly concentrations of particulate matter with an aerodynamic diameter of less than 10 µm (PM10), nitrogen dioxide (NO2), sulfur dioxide (SO2), and ozone (O3) for the same period. The authors also obtained daily mortality data from the National Statistical Office of Korea for the same period, which included the date of death, age, sex, and underlying cause of death. The data was collected from seven major cities in Korea: Seoul, Busan, Daegu, Gwangju, Daejeon, Ulsan, and Incheon.
+
+**Algorithms used:** The authors use the Korean Heatwave Index, the American National Weather Service Heat Index, and the WBGT to define heat waves. They also use distributed lag non-linear models to estimate the cumulative effects of heat on mortality.
+
+**How they distinguished between heat wave and non-heat wave days:** The authors define heat waves using three different indices: the Korean Heatwave Index, the American National Weather Service Heat Index, and the WBGT. For each index, a heat wave day is defined as a day when the index exceeds a certain threshold value. The authors then compare the health risks associated with each heat wave definition.
