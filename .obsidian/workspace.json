@@ -6,7 +6,7 @@
       {
         "id": "fe3eda290163a617",
         "type": "tabs",
-        "dimension": 63.646055437100216,
+        "dimension": 59.66850828729282,
         "children": [
           {
             "id": "1e492c6fffa02e53",
@@ -20,13 +20,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e02e1b56c31a747c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meeting-notes-BTH-SRC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b9c0209a6bb396f5",
         "type": "tabs",
-        "dimension": 36.353944562899784,
+        "dimension": 40.331491712707184,
         "children": [
           {
             "id": "91d9677dd6484739",
@@ -88,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate change and Networks.md",
+                "file": "meeting-notes-BTH-SRC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate change and Networks.md",
+                "file": "meeting-notes-BTH-SRC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate change and Networks.md"
+                "file": "meeting-notes-BTH-SRC.md"
               }
             }
           },
@@ -226,17 +240,17 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "1e492c6fffa02e53",
+  "active": "e02e1b56c31a747c",
   "lastOpenFiles": [
-    "ApproachesEstimatingEffects2008.md",
-    "Climate change and Networks.md",
     "sonImpactHeatWaves2012.md",
+    "meeting-notes-BTH-SRC.md",
+    "Climate change and Networks.md",
+    "ApproachesEstimatingEffects2008.md",
     "heoComparisonHealthRisks2019.md",
     "benmarhniaQuantifyingImpactChanging2019.md",
     "xuImpactHeatwaveMortality2016.md",
     "[[xuImpactHeatwaveMortality2016]].md",
     "10.1016--j.envint.2016.02.007.md",
-    "Tackling Climate Change with ML.md",
-    "EM expectation maximization.md"
+    "Tackling Climate Change with ML.md"
   ]
 }
