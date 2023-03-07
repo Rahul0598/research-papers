@@ -6,7 +6,6 @@
       {
         "id": "fe3eda290163a617",
         "type": "tabs",
-        "dimension": 59.66850828729282,
         "children": [
           {
             "id": "1e492c6fffa02e53",
@@ -15,87 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "Climate change and Networks.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "e02e1b56c31a747c",
+            "id": "9bdeb225d41407c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meeting-notes-BTH-SRC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b9c0209a6bb396f5",
-        "type": "tabs",
-        "dimension": 40.331491712707184,
-        "children": [
-          {
-            "id": "91d9677dd6484739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ApproachesEstimatingEffects2008.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb4f0665366acc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sonImpactHeatWaves2012.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aebe747d77c7b869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "benmarhniaQuantifyingImpactChanging2019.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1763a9ddd3d282a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xuImpactHeatwaveMortality2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75bbd4f4c83ff8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "heoComparisonHealthRisks2019.md",
+                "file": "I606 - proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meeting-notes-BTH-SRC.md",
+                "file": "I606 - proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meeting-notes-BTH-SRC.md",
+                "file": "I606 - proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meeting-notes-BTH-SRC.md"
+                "file": "I606 - proposal.md"
               }
             }
           },
@@ -240,11 +171,12 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "e02e1b56c31a747c",
+  "active": "9bdeb225d41407c4",
   "lastOpenFiles": [
-    "sonImpactHeatWaves2012.md",
-    "meeting-notes-BTH-SRC.md",
     "Climate change and Networks.md",
+    "I606 - proposal.md",
+    "meeting-notes-BTH-SRC.md",
+    "sonImpactHeatWaves2012.md",
     "ApproachesEstimatingEffects2008.md",
     "heoComparisonHealthRisks2019.md",
     "benmarhniaQuantifyingImpactChanging2019.md",
